@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/716835318300031499/245d79c9836a45b5ac4060da71cafbd0/artifacts
+end_time: 1734313860019
+entry_point_name: ''
+experiment_id: '716835318300031499'
+lifecycle_stage: active
+run_id: 245d79c9836a45b5ac4060da71cafbd0
+run_name: amazing-mare-750
+run_uuid: 245d79c9836a45b5ac4060da71cafbd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734313851993
+status: 3
+tags: []
+user_id: Zabih
