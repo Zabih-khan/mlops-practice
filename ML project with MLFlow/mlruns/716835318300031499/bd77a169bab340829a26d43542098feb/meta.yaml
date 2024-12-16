@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/716835318300031499/bd77a169bab340829a26d43542098feb/artifacts
+end_time: 1734285721331
+entry_point_name: ''
+experiment_id: '716835318300031499'
+lifecycle_stage: active
+run_id: bd77a169bab340829a26d43542098feb
+run_name: sincere-stag-313
+run_uuid: bd77a169bab340829a26d43542098feb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734285704606
+status: 3
+tags: []
+user_id: Zabih
